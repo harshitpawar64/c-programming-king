@@ -2,7 +2,7 @@
 
 This repository tracks my progress through **"C Programming: A Modern Approach, 2nd Edition"** by *K.N. King*.
 
-It includes my **solutions to exercises, examples, and programming projects**.
+It includes my **solutions to exercises, programs, and programming projects**.
 
 Feel free to explore my learning journey!
 
