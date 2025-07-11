@@ -17,7 +17,7 @@ int main(void)
     x = 43.2892f;
     y = 5527.0f;
 
-    /* Conversion specifications / Format specifiers --> %d, %i, %.nf/%f
+    /* Conversion specifications / Format specifiers --> %d, %i, %f, %e, %g
      * %m.pX / %-m.pX; m,p -> integers (optional); X -> letter
      *    m -> minimum field width -> minimum number of characters to print
      *    If value to be printed requires less than m characters, the value is right-justified (extra spaces precede the value)
